@@ -1,6 +1,5 @@
-# Financial Analytics
-* The Dataset Contains the Foreign direct investment in India for the last 17 years from 2000-01 to 2016-17 of Different Sectors.
-* This dataset contains sector and financial year wise data of Foreign Direct Investment in India .
+# Financial Analytics.
+* Sample Dataset Contains the data 
 
 
 
