@@ -27,6 +27,13 @@
 * Then I have checked the datatypes of all columns of the dataset whether it is correct or not.
 
 
+![Screenshot 2022-10-09 183714](https://user-images.githubusercontent.com/111995863/194761967-77410efc-4ee2-4f2b-a322-8175274ef71c.png)
+
+![Screenshot 2022-10-09 183819](https://user-images.githubusercontent.com/111995863/194762010-5922f040-ccc7-4dce-82b6-ff01d0928204.png)
+
+![Screenshot 2022-10-09 183858](https://user-images.githubusercontent.com/111995863/194762034-5d84ab24-400d-43a6-aae6-ec65ea44ea7b.png)
+
+![Screenshot 2022-10-09 192239](https://user-images.githubusercontent.com/111995863/194762085-5cbdb7d3-f6f6-4e29-88ce-9d141a0bfcfc.png)
 
 
 
