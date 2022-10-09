@@ -1,5 +1,5 @@
 # Financial Analytics.
-* Sample Dataset Contains the data 
+* Sample Dataset Contains the Market Capitalization and Sales Qtr Data of 500 Companies In India . In this Project I have Used Tableau For Data Analysis and Create Visualizations.
 
 
 
